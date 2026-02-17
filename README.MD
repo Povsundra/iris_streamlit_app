@@ -52,10 +52,5 @@ Users can:
 
 ---
 
-## 🛠 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/povsundra/iris_streamlit_app.git
-cd iris_streamlit_app
+## Demo
+link https://irisappapp-2qzp8if58exz4usr4xu7ez.streamlit.app/ 
